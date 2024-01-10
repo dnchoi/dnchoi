@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-984%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-986%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-356.3%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
@@ -36,17 +36,18 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+Python                   1 hr 1 min          █████████████████████████   99.56 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Linux                    1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/01/2024 18:32:42 UTC
+ Last Updated on 10/01/2024 18:34:31 UTC
 <!--END_SECTION:waka-->
 
 
