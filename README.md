@@ -20,38 +20,8 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-359.30%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
-**저는 아침형 인간이에요. 🐤** 
 
-```text
-🌞 아침                     50 commits          █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-🌆 낮　                     88 commits          █████████░░░░░░░░░░░░░░░░   35.63 % 
-🌃 저녁                     67 commits          ███████░░░░░░░░░░░░░░░░░░   27.13 % 
-🌙 밤　                     42 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-Python                   56 mins             █████████████░░░░░░░░░░░░   53.98 % 
-Markdown                 42 mins             ██████████░░░░░░░░░░░░░░░   41.13 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-
-🔥 에디터들: 
-VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
-
-💻 운영 체제들: 
-Linux                    1 hr 19 mins        ███████████████████░░░░░░   76.88 % 
-Mac                      24 mins             ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
-```
-
-
- Last Updated on 15/03/2026 18:44:25 UTC
+ Last Updated on 16/03/2026 18:46:49 UTC
 <!--END_SECTION:waka-->
 
 
