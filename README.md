@@ -36,18 +36,18 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    6 hrs 20 mins       █████████████████████████   99.55 % 
+Other                    6 hrs 19 mins       █████████████████████████   99.55 % 
 Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 에디터들: 
-VS Code                  6 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      6 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/04/2026 18:45:10 UTC
+ Last Updated on 13/04/2026 18:51:14 UTC
 <!--END_SECTION:waka-->
 
 
