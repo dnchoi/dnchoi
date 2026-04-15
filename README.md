@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C383%20hrs%201%20min-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-359.30%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-460.43%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     50 commits          █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-🌆 낮　                     88 commits          █████████░░░░░░░░░░░░░░░░   35.63 % 
-🌃 저녁                     67 commits          ███████░░░░░░░░░░░░░░░░░░   27.13 % 
-🌙 밤　                     42 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+🌞 아침                     64 commits          █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+🌆 낮　                     104 commits         █████████░░░░░░░░░░░░░░░░   34.55 % 
+🌃 저녁                     77 commits          ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+🌙 밤　                     56 commits          █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
 ```
 
 
@@ -36,17 +36,17 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    6 mins              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 
- Last Updated on 14/04/2026 18:49:57 UTC
+ Last Updated on 15/04/2026 18:50:43 UTC
 <!--END_SECTION:waka-->
 
 
