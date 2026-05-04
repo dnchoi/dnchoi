@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C386%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C389%20hrs%2058%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-359.34%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -36,23 +36,23 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-YAML                     1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   36.76 % 
-Markdown                 43 mins             ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
-Docker                   29 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Python                   19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Text                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Markdown                 1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   30.53 % 
+YAML                     1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+Python                   1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Docker                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 🔥 에디터들: 
-VS Code                  2 hrs 45 mins       ████████████████████████░   97.81 % 
-Unknown Editor           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+VS Code                  5 hrs 30 mins       █████████████████████████   98.89 % 
+Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 💻 운영 체제들: 
-Linux                    2 hrs 42 mins       ████████████████████████░   95.68 % 
-Mac                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Linux                    5 hrs 26 mins       ████████████████████████░   97.81 % 
+Mac                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 ```
 
 
- Last Updated on 03/05/2026 18:45:59 UTC
+ Last Updated on 04/05/2026 19:01:28 UTC
 <!--END_SECTION:waka-->
 
 
