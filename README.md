@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C389%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C392%20hrs%2024%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-359.34%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -36,23 +36,21 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   30.53 % 
-YAML                     1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   29.82 % 
-Python                   1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Docker                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+YAML                     2 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.53 % 
+Markdown                 2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+Python                   1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Docker                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🔥 에디터들: 
-VS Code                  5 hrs 30 mins       █████████████████████████   98.89 % 
-Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+VS Code                  7 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Linux                    5 hrs 26 mins       ████████████████████████░   97.81 % 
-Mac                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Linux                    7 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/05/2026 18:56:10 UTC
+ Last Updated on 06/05/2026 19:04:04 UTC
 <!--END_SECTION:waka-->
 
 
