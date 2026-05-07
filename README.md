@@ -36,21 +36,21 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-YAML                     2 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.53 % 
-Markdown                 2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-Python                   1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-Docker                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+YAML                     1 hr 54 mins        ████████░░░░░░░░░░░░░░░░░   33.23 % 
+Python                   1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   27.23 % 
+Markdown                 1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+Docker                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 🔥 에디터들: 
-VS Code                  7 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Linux                    7 hrs 48 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/05/2026 19:04:04 UTC
+ Last Updated on 07/05/2026 19:04:12 UTC
 <!--END_SECTION:waka-->
 
 
