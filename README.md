@@ -36,21 +36,17 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-YAML                     57 mins             ██████████░░░░░░░░░░░░░░░   39.18 % 
-Python                   42 mins             ███████░░░░░░░░░░░░░░░░░░   28.91 % 
-Markdown                 23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-TSV                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-XML                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-VS Code                  2 hrs 26 mins       █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Linux                    2 hrs 26 mins       █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 
- Last Updated on 13/05/2026 19:06:44 UTC
+ Last Updated on 14/05/2026 19:06:36 UTC
 <!--END_SECTION:waka-->
 
 
