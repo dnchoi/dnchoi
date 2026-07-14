@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C397%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C397%20hrs%2020%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-359.34%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -36,21 +36,21 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 59 mins             █████████████████░░░░░░░░   69.38 % 
-JSON                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-YAML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Markdown                 1 hr 5 mins         █████████████████░░░░░░░░   67.60 % 
+JSON                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+YAML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 에디터들: 
-VS Code                  1 hr 25 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 37 mins        █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Linux                    1 hr 25 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/07/2026 19:55:55 UTC
+ Last Updated on 14/07/2026 19:50:05 UTC
 <!--END_SECTION:waka-->
 
 
