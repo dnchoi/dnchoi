@@ -38,31 +38,31 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   35.29 % 
-Markdown                 1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   30.28 % 
-Python                   1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   28.69 % 
-HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Markdown                 1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   34.84 % 
+Other                    1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   32.27 % 
+Python                   1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 에디터들: 
-VS Code                  2 hrs 28 mins       █████████████████░░░░░░░░   67.57 % 
-Exec Wakatime            1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   32.43 % 
+VS Code                  2 hrs 53 mins       ██████████████████░░░░░░░   72.23 % 
+Exec Wakatime            1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   27.77 % 
 
 💻 운영 체제들: 
-Linux                    3 hrs 33 mins       ████████████████████████░   97.24 % 
-Mac                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Linux                    3 hrs 54 mins       ████████████████████████░   97.49 % 
+Mac                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs (54.76%)
+⏱ AI Coding Time: 1 hr 56 mins (48.21%)
 
-✍️ 0 lines written by AI, 3 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 21 lines written by hand (0.0% AI-written)
 
-🔤 9,661,808 Input Tokens, 1,278,510 Output Tokens
+🔤 16,115,935 Input Tokens, 2,283,690 Output Tokens
 
-💵 $86.66 Estimated AI Cost This Week
+💵 $149.09 Estimated AI Cost This Week
 
 🧠 34 AI Sessions, 22 AI Prompts
 
@@ -76,7 +76,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 30/07/2026 19:59:10 UTC
+ Last Updated on 31/07/2026 20:00:01 UTC
 <!--END_SECTION:waka-->
 
 
