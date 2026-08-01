@@ -38,45 +38,45 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   34.84 % 
-Other                    1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   32.27 % 
-Python                   1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Markdown                 1 hr 23 mins        ██████████░░░░░░░░░░░░░░░   38.50 % 
+Python                   1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+Other                    54 mins             ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 에디터들: 
-VS Code                  2 hrs 53 mins       ██████████████████░░░░░░░   72.23 % 
-Exec Wakatime            1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+VS Code                  2 hrs 46 mins       ███████████████████░░░░░░   76.52 % 
+Exec Wakatime            51 mins             ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
 
 💻 운영 체제들: 
-Linux                    3 hrs 54 mins       ████████████████████████░   97.49 % 
-Mac                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Linux                    3 hrs 31 mins       ████████████████████████░   97.22 % 
+Mac                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 56 mins (48.21%)
+⏱ AI Coding Time: 1 hr 33 mins (42.78%)
 
 ✍️ 0 lines written by AI, 21 lines written by hand (0.0% AI-written)
 
-🔤 16,115,935 Input Tokens, 2,283,690 Output Tokens
+🔤 7,154,060 Input Tokens, 2,163,675 Output Tokens
 
-💵 $149.09 Estimated AI Cost This Week
+💵 $100.68 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 22 AI Prompts
+🧠 15 AI Sessions, 6 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 7,865 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📚 Verbose Prompter — average 21,160 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/07/2026 20:00:01 UTC
+ Last Updated on 01/08/2026 19:40:38 UTC
 <!--END_SECTION:waka-->
 
 
