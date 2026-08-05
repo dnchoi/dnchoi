@@ -38,19 +38,17 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 34 mins             █████████████░░░░░░░░░░░░   52.85 % 
-HTML                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Python                   11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Markdown                 16 mins             ████████████████░░░░░░░░░   65.68 % 
+Other                    8 mins              ████████░░░░░░░░░░░░░░░░░   33.22 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 에디터들: 
-VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
+VS Code                  24 mins             █████████████████████████   100.00 % 
 Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 운영 체제들: 
-Linux                    59 mins             ███████████████████████░░   90.82 % 
-Mac                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Linux                    18 mins             ███████████████████░░░░░░   75.64 % 
+Mac                      6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -58,7 +56,7 @@ Mac                      6 mins              ██░░░░░░░░░�
 ```text
 ⏱ AI Coding Time: 0 secs (0.0%)
 
-✍️ 0 lines written by AI, 20 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 18 lines written by hand (0.0% AI-written)
 
 🔤 29,296 Input Tokens, 2,114 Output Tokens
 
@@ -76,7 +74,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 04/08/2026 20:06:19 UTC
+ Last Updated on 05/08/2026 20:02:11 UTC
 <!--END_SECTION:waka-->
 
 
