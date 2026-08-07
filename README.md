@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C330%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C331%20hrs%2020%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2055%20mins-blue?style=flat)
 
@@ -38,43 +38,27 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 16 mins             ████████████████░░░░░░░░░   65.68 % 
-Other                    8 mins              ████████░░░░░░░░░░░░░░░░░   33.22 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Python                   18 mins             ██████████░░░░░░░░░░░░░░░   41.08 % 
+Markdown                 10 mins             ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+Bash                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 
 🔥 에디터들: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
-Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+VS Code                  45 mins             █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Linux                    18 mins             ███████████████████░░░░░░   75.64 % 
-Mac                      6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+Linux                    45 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.0%)
-
-✍️ 0 lines written by AI, 18 lines written by hand (0.0% AI-written)
-
-🔤 29,296 Input Tokens, 2,114 Output Tokens
-
-💵 $16.32 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 0 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 05/08/2026 20:02:11 UTC
+ Last Updated on 07/08/2026 00:21:04 UTC
 <!--END_SECTION:waka-->
 
 
