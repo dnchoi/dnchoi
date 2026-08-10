@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C332%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C334%20hrs%2018%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2011%20mins-blue?style=flat)
 
@@ -38,26 +38,26 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-JSON                     1 hr 16 mins        ████████████░░░░░░░░░░░░░   48.43 % 
-Python                   40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+JSON                     2 hrs 16 mins       ██████████████░░░░░░░░░░░   57.94 % 
+Python                   55 mins             ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 🔥 에디터들: 
-VS Code                  2 hrs 29 mins       ████████████████████████░   94.55 % 
-Exec Wakatime            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+VS Code                  3 hrs 47 mins       ████████████████████████░   96.36 % 
+Exec Wakatime            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 💻 운영 체제들: 
-Linux                    2 hrs 37 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (9.91%)
+⏱ AI Coding Time: 15 mins (6.62%)
 
-✍️ 0 lines written by AI, 575 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 595 lines written by hand (0.0% AI-written)
 
 🔤 183,000 Input Tokens, 36,223 Output Tokens
 
@@ -75,7 +75,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 09/08/2026 19:09:43 UTC
+ Last Updated on 10/08/2026 19:27:39 UTC
 <!--END_SECTION:waka-->
 
 
