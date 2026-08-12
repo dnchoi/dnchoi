@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C334%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C334%20hrs%2056%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2011%20mins-blue?style=flat)
 
@@ -38,32 +38,33 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-JSON                     2 hrs 16 mins       ██████████████░░░░░░░░░░░   57.94 % 
-Python                   55 mins             ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+JSON                     2 hrs 47 mins       ████████████████░░░░░░░░░   62.83 % 
+Python                   55 mins             █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 🔥 에디터들: 
-VS Code                  3 hrs 47 mins       ████████████████████████░   96.36 % 
-Exec Wakatime            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+VS Code                  4 hrs 17 mins       ████████████████████████░   96.77 % 
+Exec Wakatime            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 
 💻 운영 체제들: 
-Linux                    3 hrs 56 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 17 mins       ████████████████████████░   96.71 % 
+Mac                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (6.62%)
+⏱ AI Coding Time: 15 mins (5.88%)
 
-✍️ 0 lines written by AI, 595 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 605 lines written by hand (0.0% AI-written)
 
 🔤 183,000 Input Tokens, 36,223 Output Tokens
 
-💵 $16.80 Estimated AI Cost This Week
+💵 $0.52 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 2 AI Prompts
+🧠 5 AI Sessions, 2 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
@@ -75,7 +76,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 11/08/2026 19:31:42 UTC
+ Last Updated on 12/08/2026 19:33:28 UTC
 <!--END_SECTION:waka-->
 
 
