@@ -38,27 +38,27 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-JSON                     2 hrs 47 mins       ████████████████░░░░░░░░░   62.83 % 
-Python                   55 mins             █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+JSON                     2 hrs 47 mins       ██████████████████░░░░░░░   71.84 % 
+Python                   37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 에디터들: 
-VS Code                  4 hrs 17 mins       ████████████████████████░   96.77 % 
-Exec Wakatime            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+VS Code                  3 hrs 44 mins       ████████████████████████░   96.30 % 
+Exec Wakatime            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 💻 운영 체제들: 
-Linux                    4 hrs 17 mins       ████████████████████████░   96.71 % 
-Mac                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Linux                    3 hrs 43 mins       ████████████████████████░   96.23 % 
+Mac                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (5.88%)
+⏱ AI Coding Time: 15 mins (6.72%)
 
-✍️ 0 lines written by AI, 605 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 368 lines written by hand (0.0% AI-written)
 
 🔤 183,000 Input Tokens, 36,223 Output Tokens
 
@@ -76,7 +76,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 12/08/2026 19:33:28 UTC
+ Last Updated on 13/08/2026 19:31:56 UTC
 <!--END_SECTION:waka-->
 
 
