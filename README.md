@@ -38,45 +38,28 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-JSON                     2 hrs 47 mins       ████████████████████░░░░░   79.71 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Python                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+JSON                     1 hr 30 mins        ███████████████████░░░░░░   77.13 % 
+Python                   15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Protocol Buffer          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 에디터들: 
-VS Code                  3 hrs 21 mins       ████████████████████████░   95.90 % 
-Exec Wakatime            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+VS Code                  1 hr 57 mins        █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Linux                    3 hrs 20 mins       ████████████████████████░   95.82 % 
-Mac                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Linux                    1 hr 48 mins        ███████████████████████░░   92.52 % 
+Mac                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (7.46%)
-
-✍️ 0 lines written by AI, 142 lines written by hand (0.0% AI-written)
-
-🔤 183,000 Input Tokens, 36,223 Output Tokens
-
-💵 $0.52 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 2 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,031 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 15/08/2026 18:53:36 UTC
+ Last Updated on 16/08/2026 18:52:31 UTC
 <!--END_SECTION:waka-->
 
 
