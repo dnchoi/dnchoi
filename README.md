@@ -38,18 +38,17 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-JSON                     1 hr 30 mins        ███████████████████░░░░░░   77.13 % 
-Python                   15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Protocol Buffer          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+JSON                     29 mins             ███████████████████░░░░░░   76.79 % 
+YAML                     8 mins              ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 에디터들: 
-VS Code                  1 hr 57 mins        █████████████████████████   100.00 % 
+VS Code                  37 mins             █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Linux                    1 hr 48 mins        ███████████████████████░░   92.52 % 
-Mac                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Linux                    29 mins             ███████████████████░░░░░░   76.83 % 
+Mac                      8 mins              ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -59,7 +58,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 17/08/2026 19:06:06 UTC
+ Last Updated on 18/08/2026 19:05:09 UTC
 <!--END_SECTION:waka-->
 
 
