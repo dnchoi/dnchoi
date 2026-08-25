@@ -38,42 +38,37 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 21 mins             ████████████████████░░░░░   80.31 % 
-Other                    5 mins              █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Other                    5 mins              █████████████████████████   100.00 % 
 
 🔥 에디터들: 
-VS Code                  17 mins             ████████████████░░░░░░░░░   64.31 % 
-Codex Vscode             9 mins              █████████░░░░░░░░░░░░░░░░   35.69 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      27 mins             █████████████████████████   100.00 % 
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 mins (100.0%)
+⏱ AI Coding Time: 5 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 81,884 Input Tokens, 5,372 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $1.92 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
-
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 1 AI Sessions, 2 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 968 characters per prompt
+📄 Detailed Prompter — average 704 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/08/2026 19:08:33 UTC
+ Last Updated on 25/08/2026 19:06:48 UTC
 <!--END_SECTION:waka-->
 
 
