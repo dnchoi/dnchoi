@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C334%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C335%20hrs%202%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2016%20mins-blue?style=flat)
 
@@ -38,37 +38,27 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    5 mins              █████████████████████████   100.00 % 
+Markdown                 2 mins              ██████████░░░░░░░░░░░░░░░   38.95 % 
+Git Config               2 mins              █████████░░░░░░░░░░░░░░░░   34.12 % 
+C++                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
 🔥 에디터들: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+Mac                      6 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 704 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 25/08/2026 19:06:48 UTC
+ Last Updated on 26/08/2026 20:22:37 UTC
 <!--END_SECTION:waka-->
 
 
