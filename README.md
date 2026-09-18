@@ -38,14 +38,14 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 34 mins             ████████████████████████░   95.87 % 
-C++                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Markdown                 17 mins             ███████████████████████░░   92.32 % 
+C++                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
 
 🔥 에디터들: 
-VS Code                  35 mins             █████████████████████████   100.00 % 
+VS Code                  19 mins             █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Linux                    35 mins             █████████████████████████   100.00 % 
+Linux                    19 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -55,7 +55,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 17/09/2026 21:33:05 UTC
+ Last Updated on 18/09/2026 21:03:55 UTC
 <!--END_SECTION:waka-->
 
 
