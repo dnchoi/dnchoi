@@ -38,13 +38,13 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-HTML                     0 secs              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
@@ -54,7 +54,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 03/10/2026 21:34:54 UTC
+ Last Updated on 04/10/2026 21:42:41 UTC
 <!--END_SECTION:waka-->
 
 
