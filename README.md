@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C336%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C337%20hrs%2010%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2016%20mins-blue?style=flat)
 
@@ -38,14 +38,17 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-YAML                     17 mins             █████████████████████████   98.91 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+YAML                     36 mins             ████████████████░░░░░░░░░   62.33 % 
+Markdown                 14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
+Text                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 에디터들: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+VS Code                  57 mins             █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Linux                    17 mins             █████████████████████████   100.00 % 
+Linux                    57 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -55,7 +58,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 21/10/2026 21:52:10 UTC
+ Last Updated on 22/10/2026 21:47:41 UTC
 <!--END_SECTION:waka-->
 
 
