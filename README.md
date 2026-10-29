@@ -38,17 +38,17 @@ Here are some ideas to get you started:
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Python                   36 mins             █████████░░░░░░░░░░░░░░░░   35.06 % 
-YAML                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-Markdown                 19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Text                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-CSV                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Python                   30 mins             ████████████░░░░░░░░░░░░░   48.21 % 
+Text                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+CSV                      9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 
 🔥 에디터들: 
-VS Code                  1 hr 44 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Linux                    1 hr 44 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -58,7 +58,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 28/10/2026 22:44:27 UTC
+ Last Updated on 29/10/2026 22:53:24 UTC
 <!--END_SECTION:waka-->
 
 
